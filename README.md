@@ -11,6 +11,6 @@ Una idea a futuro es añadir un sensor de temperatura, también sería interesan
 
 
 ++ PASOS PARA CONFIGURARLO ++
-- Imprimir la figura, conseguir el sensor LM393 con el display LCD y realizar el cableado (tacómetro/medidor de Hz)
-- Carga el archivo que te sirva a tu Arduino.
+- Imprimir la figura del archivo .zip, conseguir el sensor LM393 con el display LCD y realizar el cableado (tacómetro/medidor de Hz)
+- Carga el archivo .ino a tu Arduino. Asegúrate que los pines coincidan con los del archivo.
 - Si dispones de medidores previamente calibrados, compara las velocidades obtenidas. Si es necesario, cambia el valor de 'k' hasta que las dos mediciones coincidan.
