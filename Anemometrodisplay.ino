@@ -15,6 +15,8 @@
  // usa float porque puede contener decimales
   float k = 2.5;
 
+ LiquidCrystal_I2C lcd(0x27, 16, 2);
+
 void setup() {
   
   pinMode(Sensor,INPUT);
