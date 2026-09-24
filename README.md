@@ -4,7 +4,7 @@ Fue creado para medir las velocidades del flujo dentro de un túnel de viento, p
 Van a haber dos códigos, el normal donde el procesador esté conectado a la computadora por USB, y otro donde los valores se mostrarán en un display LCD 16*2.
 
 11/9/2026
---> Se creó una base aparte, al eje que va conectado al rulemán se le debe agregar un hilo que pueda detectar el sensor. La mejora a futuro será modificar la base del archivo en CAD para que tenga un espacio para encastrar el sensor, así es solo imprimir y ensamblar.
+--> Se creó una base aparte (Tapa2.STL) para colocar el encoder, al eje que va conectado al rulemán se le debe agregar un hilo que pueda detectar el sensor. La mejora a futuro será modificar la base del archivo en CAD para que tenga un espacio para encastrar el sensor, así es solo imprimir y ensamblar.
 --> Se va a calibrar en el túnel de viento con herramientas de precisión.
 
 Una idea a futuro es añadir un sensor de temperatura, también sería interesante conectarlo a una red wifi para tener los valores de viento en tu celular.
