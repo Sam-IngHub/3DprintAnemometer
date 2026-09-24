@@ -3,7 +3,7 @@ Diseño de un anemómetro de coperolas configurado con Arduino. Un sensor óptic
 Fue creado para medir las velocidades del flujo dentro de un túnel de viento, pero puede ser colocado en un balcón. El modelo de anemómetro se puede descargar por Thingiverse: "Anemometer by DigitalUrban", la base es personalizada.
 Van a haber dos códigos, el normal donde el procesador esté conectado a la computadora por USB, y otro donde los valores se mostrarán en un display LCD 16*2.
 
-1/8/2026
+11/9/2026
 --> Se creó una base aparte, al eje que va conectado al rulemán se le debe agregar un hilo que pueda detectar el sensor. La mejora a futuro será modificar la base del archivo en CAD para que tenga un espacio para encastrar el sensor, así es solo imprimir y ensamblar.
 --> Se va a calibrar en el túnel de viento con herramientas de precisión.
 
